@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Amirul Arief</h1>
-<h3 align="left">A final-year Mechanical Engineering student at the University of Manchester. I'm passionate about the intersection of engineering and technology, especially in the realms of Artificial Intelligence (AI) and Machine Learning (ML). I'm currently on a journey to explore these fascinating fields and integrate them into mechanical engineering solutions.</h3>
+<h3 align="left">A final-year Mechanical Engineering student at the University of Manchester. I'm passionate about the intersection of engineering, data and technology, especially in the realms of Artificial Intelligence (AI) and Machine Learning (ML). I'm currently on a journey to explore these fascinating fields and integrate them into mechanical engineering solutions.</h3>
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/amirularief01/</h3>
 <p align="left">
